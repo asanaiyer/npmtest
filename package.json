@@ -1,0 +1,22 @@
+{
+  "name": "a-test",
+  "version": "1.0.0",
+  "description": "Test creating node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asanaiyer/npmtest.git"
+  },
+  "author": "Asana Iyer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asanaiyer/npmtest/issues"
+  },
+  "homepage": "https://github.com/asanaiyer/npmtest",
+  "dependencies":{
+	"mocha":"~2.2.4"
+	}
+}
